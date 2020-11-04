@@ -1,8 +1,18 @@
-<img src="./assets/logo.png" width="250">
+<p align="center">
+  <img align="center" src="./assets/logo.png" width="250">
+</p>
 
-### 💻 GOOGLE CLONE
 
-Clone reproduzido para efeitos de estudo.
+<h1 align="center" >
+💻 Google Clone (Homepage)
+</h1>
+
+<p align="center">Clone reproduzido para efeitos de estudo.</p>
+
+## Resources
+
+- [x] HTML, CSS
+- [x] SVG Images
 
 ## Responsivo
 <img src="https://user-images.githubusercontent.com/54605079/98160468-fea76400-1ebc-11eb-9e03-d29bde7a44f1.png">
