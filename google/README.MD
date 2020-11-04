@@ -9,7 +9,7 @@
 
 <p align="center">Clone reproduzido para efeitos de estudo.</p>
 
-## Resources
+## O que foi utilizado?
 
 - [x] HTML, CSS
 - [x] SVG Images
